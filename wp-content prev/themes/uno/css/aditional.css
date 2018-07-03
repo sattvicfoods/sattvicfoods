@@ -1,0 +1,284 @@
+/*Don't touch this styles*/
+
+/* header */
+#woocommercemyaccountwidget-4 .logout .sfoo_valid_error_msg {
+	font-size: 13px;
+	color: #de2929;
+	border: 1px solid #de2929;
+	padding: 5px 3px;
+}
+.WooCommerceMyAccountWidget #wma_login_form .sfoo_wma_login_form_error,
+#woocommercemyaccountwidget-4.WooCommerceMyAccountWidget .woo-ma-login-failed {
+	color: #de2929;
+}
+
+/* My account Payment Details */
+.sfoo_myaccount_payment_details h4{
+	margin-bottom: 0;
+	font-weight: 500;
+}
+
+/* /single-product */
+.single-product .sfoo_single_page_sku {
+	color: #898989;
+    font-size: 0.8rem;
+    margin: 3px 0;
+}
+.single-product  #main-sidebar-container #main .product.outofstock .summary .wcwl_control {
+	margin-top: 9px;
+}
+.single-product button.single_add_to_cart_button {
+	border-radius: 20px;
+	padding: .38em -0px;
+	margin: 10px 0 0;
+	width: 50%;
+	float: right;
+}
+#wl-wrapper .sfoo_wishlist_error_message {
+	color: #de2929;
+	/*border: 1px solid #de2929;*/
+	padding: 5px 3px;
+	margin: 10px 0 0;
+}
+.sfoo_single_recipe_hero {
+	margin-bottom: 20px;
+}
+.sfoo_single_recipe_hero .sfoo_single_recipe_hero_title {
+	font-size: 120%;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-family: 'Open Sans', 'Roboto', 'Helvetica Neue', sans-serif;
+}
+.sfoo_single_recipe_hero .sfoo_single_recipe_hero_title span {
+	color: #6bc194;
+}
+.sfoo_single_recipe_hero ul.products {
+	display: flex;
+	margin-bottom: 3em;
+}
+.woocommerce .sfoo_single_recipe_hero ul.products li.product {
+	padding: 0;
+	border: none;
+	border-radius: 0px;
+	background: transparent;
+	margin-bottom: 0;
+}
+.sfoo_single_recipe_hero ul.products .sfoo_single_recipe_hero_link {
+	height: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
+	-o-flex-direction: column;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.woocommerce ul.products li.product .sfoo_single_recipe_hero_link .woocommerce-loop-product__title {
+	margin-bottom: 0;
+} 
+.sfoo_single_recipe_hero_more_recipes {
+	text-align: center;
+}
+a.sfoo_button {
+	background: #6ec095;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 1em;
+	line-height: 1.618em;
+	display: inline-block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 20px;
+	padding: .58em 2em;
+}
+a.sfoo_button:hover {
+	background: #4c5567;
+	text-decoration: none;
+}
+
+
+/* /checkout */
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_postcode_field, 
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_postcode_field,
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_first_name_field, 
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_first_name_field,
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_city_field, 
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_city_field{
+	width: 48%;
+    float: left;
+}
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_country_field, 
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_country_field,
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_last_name_field, 
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_last_name_field,
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_state_field, 
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_state_field{
+	width: 48%;
+    float: right;
+    clear: none;
+}
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #order_review .shipping_methods_new #label_shipping {
+	float: left;
+}
+.woocommerce-cart  .shipping_new #shipping_content ul#shipping_method,
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #order_review table tfoot tr.shipping ul#shipping_method {
+	float: left;
+	display: flex;
+	justify-content: space-around;
+}
+.woocommerce-cart  .shipping_new .shipping_methods_new #shipping_content ul#shipping_method li,
+.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #order_review table tfoot tr.shipping ul#shipping_method li {
+	width: 45%;
+}
+
+/* /cart */
+.woocommerce-cart  .shipping_new #shipping_content ul#shipping_method {
+	width: 85%;
+}
+
+/* wishlist */
+#wl-wrapper .wl-form input.button {
+	margin-left: 0;
+	background: #6EC095;
+	color: #fff!important;
+}
+
+#wl-wrapper .wl-form input.button:hover {
+	background: #4c5567;
+}
+
+#wl-wrapper table.cart a.remove {
+	line-height: 1.1em;
+}
+
+@media only screen and (max-width:767px) {
+	/*single*/
+	.sfoo_single_recipe_hero ul.products {
+		-webkit-flex-wrap: wrap;
+		-moz-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		-o-flex-wrap: wrap;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.sfoo_single_recipe_hero ul.products:after {
+		display: none;
+	}
+	.woocommerce .sfoo_single_recipe_hero ul.products li.product {
+		width: 47%!important;
+		margin-bottom: 1%;
+	}
+	.sfoo_single_recipe_hero ul.products .sfoo_single_recipe_hero_link {
+		/*height: auto;*/
+		height: 100% !important;
+	}
+
+	/*checkout*/
+	.sfoo_checkout_product_name {
+		color: #6bc194;
+	}
+	.sfoo_checkout_product_quantity,
+	.sfoo_checkout_product_size {
+		padding-left: 10px;
+	}
+
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_postcode_field, 
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_postcode_field,
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_first_name_field, 
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_first_name_field,
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_city_field, 
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_city_field,	
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_country_field, 
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_country_field,
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_last_name_field, 
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_last_name_field,
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_state_field, 
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .woocommerce-shipping-fields .blocks_shipping #shipping_state_field{
+		width: 100%;
+		float: none;
+	}
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #customer_details .billing .woocommerce-billing-fields .blocks #billing_address_2_field{
+		margin-bottom: .5em;
+	}
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #order_review .shipping_methods_new #label_shipping {
+		float: none;
+	}
+	.woocommerce-cart  .shipping_new #shipping_content ul#shipping_method,
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #order_review table tfoot tr.shipping ul#shipping_method {
+		float: none;
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
+	}
+	.woocommerce-cart  .shipping_new .shipping_methods_new #shipping_content ul#shipping_method li,
+	.woocommerce-checkout #main-sidebar-container #main article .woocommerce form.checkout #order_review table tfoot tr.shipping ul#shipping_method li {
+		width: 100%;
+	}
+
+	.woocommerce-cart  table.cart tbody tr td.actions .button.sfoo_update_cart {
+		width: auto;
+		display: inline-block;
+	}
+}
+
+@media only screen and (max-device-width: 480px) and (min-device-width: 320px) {
+	.woocommerce form .form-row-last, .woocommerce-page form #billing_email_field {
+		float: none;
+	}
+}
+
+/* search bar in the header*/ 
+#searchform{
+	width:100%;
+	margin:0;
+}
+form#searchform input#s {
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+	width: 90%;
+    height: 100%!important;
+    padding-top: 0!important;
+	padding-left: 0px!important;
+	font-size: 0.9rem;
+	padding:0;
+}
+.home #search_mobile .fa-search {
+	display:none!important;
+	/*width:10%;*/
+}
+
+@media only screen and (max-width:767px) {
+	.home #search_mobile .fa-search {
+		display: inline-block!important;
+	}
+}
+
+#Header_4 {
+	text-align:right!important;
+}
+
+header .header-widget .header_part p a {
+	display:block;
+	padding-top: 10px;
+}
+
+@media only screen and (max-width: 1150px) and (min-width: 978px){
+	form#searchform input#s{
+		font-size:0.8rem;
+	}
+}
+@media only screen and (max-width: 979px) and (min-width: 767px){
+	form#searchform input#s{
+		width: 80%;
+	}
+}
+/*.billing .woocommerce-billing-fields .select2-container,
+.woocommerce-shipping-fields .select2-container{
+	height: 39px;
+}*/

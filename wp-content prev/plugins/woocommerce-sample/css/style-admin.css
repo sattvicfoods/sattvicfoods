@@ -1,0 +1,28 @@
+#woocommerce-product-data ul.product_data_tabs li a.added_sample:before{
+	content: "\f312";
+}
+
+input.radio {
+	width: auto !important;
+	margin: 4px 7px !important;
+}
+
+label.radio {
+	float: none !important;
+	font-size: 12px;
+	line-height: 24px;
+	margin: 0 !important;
+}
+
+#sample_tab legend {
+	display: inline-block;
+	float: none !important;
+	width: 100% !important;
+	font-size: 12px;
+	line-height: 24px;	
+	margin: 0 10px !important;
+}
+
+#sample_tab .options_group {
+	clear: both;
+}

@@ -1,0 +1,195 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+===================================
+Circumference Change Log
+===================================
+
+Copyright 2017 StyledThemes.com	
+
+===================================
+Changelog Legend:
+===================================
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+
+======================  Versioning Legend 1.2.3 ===========================
+
+[1] MAJOR version when you make major changes
+[2] MINOR version when you add features or functions
+[3] PATCH version when you make bug fixes or adjust/add a minor feature
+
+===========================================================================
+
+
+(October 17, 2017 ) - Adjustments - Version 3.0.5
+[+] Options to show hide author link in footer
+[!] Fixed broken author and upsell links
+-------
+
+(May 16, 2017 ) - Adjustments - Version 3.0.4
+[!] Banner and Call to action sidebar bug Fixed
+[+] Improvised user Interface for upsells link Added   
+
+-------
+
+(May 15, 2017 ) - Adjustments - Version 3.0.3
+[+] WooCommerce compatibility Added 
+
+-------
+
+(September 07, 2016 ) - Adjustments - Version 3.0.2
+
+[!] Customizer color option bug Fixed
+
+-------
+
+(September 07, 2016 ) - Adjustments - Version 3.0.1
+
+[*] Sanitization of url and color Changed 
+[!] Text Domain bug Fixed
+
+-------
+
+
+(July 15, 2016 ) - Adjustments - Version 3.0.0
+
+[+] Hover effect on blog page Added
+[+] Customizer setting to enable or disable hover effect on blog Added  
+
+-------
+
+
+(July 05, 2016 ) - Adjustments - Version 2.6.0
+
+[!] Sticky menu bug Fixed
+
+-------
+
+(Jun 1, 2016 ) - Adjustments - Version 2.5.1
+
+[!] Search form bug Fixed
+
+------
+
+(Jun 1, 2016 ) - Adjustments - Version 2.5.0
+
+[+] Search field on header Added
+[x] Deprecated tag from style.css file Deleted
+
+-------
+
+(January 21, 2016 ) - Adjustments - Version 1.3.0
+
+[+] Sticky menu Added
+[!] Customizer console bug Fixed
+
+-----
+
+(December 7, 2015) - Adjustments - Version 1.2
+
+[!] Fixed the bug of header background image
+[*] Changed wp_title() to add_theme_support('title-tag')
+
+-----
+
+(June 23, 2015) - Adjustments - Version 1.1.1
+
+[!] Logo Bug in Safari and Chrome Fixed.
+
+----
+(June 23, 2015) - Adjustments - Version 1.1.1
+
+[+] Documentation Link Added
+[!] Editor Style Bug Fix
+
+----
+
+(April 20, 2015) Version 1.1.0 Styled Themes <www.styledthemes.com>
+[!] Customizer Bug Fixed
+
+----
+
+(March 13, 2015) Version 1.0.9 Styled Themes <www.styledthemes.com>
+
+[!] IE compatibility bug fixed
+[+] Added WooCommerce support
+
+---
+
+[January 21, 2015] Version 1.0.8 Styled Themes <www.styledthemes.com>
+
+[!] Fixed the bug of dark editor in wp admin.
+
+
+---- 
+
+
+[January 16, 2015] Version 1.0.7 Styled Themes <www.styledthemes.com>
+
+[+] Added Cart Icon
+[x] Removed Child Theme Zip Folder
+
+---- 
+
+
+[June 4, 2014] Version 1.0.6 Styled Themes <www.styledthemes.com>
+
+[!] Fixed an IE conditional that was showing up at the top of the page.
+[!] Fixed the linked post title mouseover colour to match text links on mouseover
+
+---- 
+
+[March 22, 2014] Version 1.0.5 Styled Themes <www.styledthemes.com>
+
+[!] Fixed footer menu separators which were not aligned center
+[*] Changed list styling for the banner area for sliders that uses lists which created a space
+[+] Added a sample banner on first install (can disable it)
+[+] Added a disable demo banner theme option in Basic Settings
+[!] Fixed images not being responsive in the banner position
+
+----
+
+[March 18, 2014] Version 1.0.4 Styled Themes <www.styledthemes.com>
+
+[*] Changed the text domain to circumference-lite (source code)
+[*] Changed how the default list style is used as it was conflicting with third party plugin lists
+
+----
+
+[March 13, 2014] Version 1.0.3 Styled Themes <www.styledthemes.com>
+
+[*] Changed the text domain to represet the theme as circumferencelite
+[*] Changed function prefix names to match the theme name
+[!] Fixed the paths to the fonts
+[*] Updated the theme's screenshot
+[+] Added developer versions of CSS and JS files (not minified)
+[*] Updated the README file
+
+---- 
+
+[March 10, 2014] Version 1.0.2 Styled Themes <www.styledthemes.com>
+
+[*] Changed the footer menu to be just one level deep
+[*] Changed the data uri embedded fonts to the standard @font-face method
+
+----
+
+[March 2, 2014] Version 1.0.1 Styled Themes <www.styledthemes.com>
+
+[*] Corrected the author's url in the stylesheet
+
+----
+
+[March 1, 2014] Version 1.0.0 Styled Themes <www.styledthemes.com>
+
+----

@@ -1,0 +1,14 @@
+
+�[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"329";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-01-06 22:15:41";s:13:"post_date_gmt";s:19:"2015-01-06 16:45:41";s:12:"post_content";s:1672:"<h3 class="p1">What is Bee Pollen?</h3>
+<p class="p1"><span class="s1">Bee Pollen is made by honeybees, and is the food of the young bee. It is one of nature’s most completely nourishing foods as it contains nearly all nutrients required by humans. Bee-gathered pollens are rich in proteins (approximately 40% protein), free amino acids, vitamins, including B-complex, and folic acid.</span></p>
+<p class="p1"><span class="s1">It contains many elements that products of animal origin do not possess. It is more rich in proteins than any animal source. It contains more amino acids than beef, eggs, or cheese of equal weight. About half of its protein is in the form of free amino acids that are ready to be used directly by the body.</span></p>
+<p class="p1"><span class="s1">Human consumption of bee pollen is even praised in the Bible, ancient Chinese and Egyptian texts.</span></p>
+<p class="p1"><span class="s1">It has long been prescribed by traditional health practitioners like Hippocrates.</span></p>
+
+<h3 class="p1">Our Source</h3>
+Our Bee Pollen is sourced from the same Bee hives in Uttaranchal from where our honey is obtained
+<h3 class="p1"><span class="s1"><b>How Should Bee Pollen Be Consumed?</b></span></h3>
+<p class="p1"><span class="s1">It is a food and acts faster and more effectively when taken at mealtime and especially with fruit, which lets it gently, perform a little cleansing of the intestinal flora.</span></p>
+
+<h3 class="p1">Why Buy Ours</h3>
+<p class="p1"><span class="s1">You’ll be pleased to know that our beekeepers are able to remove pollen from hives without harming the bees or disturbing their routine.</span></p>";s:10:"post_title";s:40:"Bee Pollen - Nature's complete Superfood";s:12:"post_excerpt";s:135:"Bee-gathered pollens are rich in proteins (approximately 40% protein), free amino acids, vitamins, including B-complex, and folic acid.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:37:"bee-pollen-natures-complete-superfood";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-29 11:12:19";s:17:"post_modified_gmt";s:19:"2018-03-29 05:42:19";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:68:"http://13.127.121.242/product/bee-pollen-natures-complete-superfood/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

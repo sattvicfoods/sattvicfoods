@@ -1,0 +1,35 @@
+/*
+     FILE ARCHIVED ON 8:40:14 Aug 8, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:01:53 Sep 4, 2013.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+* Copyright 2010-2011 WebRupee (http://webrupee.com)
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+* 
+* http://www.apache.org/licenses/LICENSE-2.0
+* 
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+
+@font-face {
+  font-family: 'WebRupee';
+  src: url('font/WebRupee.eot'); 
+  src: url('font/WebRupee.eot?#iefix') format('embedded-opentype'), 
+       url('font/WebRupee.woff') format('woff'),
+       url('font/WebRupee.ttf')  format('truetype'), 
+       url('font/WebRupee.svg#svgWebRupee') format('svg'); 
+}
+
+.WebRupee {font-family: 'WebRupee';}

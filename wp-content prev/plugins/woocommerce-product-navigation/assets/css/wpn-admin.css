@@ -1,0 +1,48 @@
+.wpn_wpbo_meta {
+	float: right;
+	width: 25%;
+	text-align: center;
+	padding: 10px;
+	margin: 5px;
+	border: solid black 1px;
+}
+.wpn_wpbo_meta h2 {
+	line-height: 1.2em;
+}
+.wpn_wpbo_meta p {
+	font-size: 1.3em;
+}
+#wpn_settings {
+	float: left;
+	width: 70%;
+}
+#wpn_settings .button,
+#wpn_settings label {
+	float: left;
+	margin-right: 10px;
+}
+#wpn_settings label {
+	line-height: 2em;
+}
+#wpn_settings img.wpn_img_preview {
+	float: left;
+	clear: left;
+	margin-top: 10px;
+	max-height: 150px;
+}
+
+#wpn_settings p {
+	float: left;
+	clear: left;
+}
+
+@media screen and (max-width: 640px) {
+  .wpn_wpbo_meta {
+	  width: 90%;
+	  float: left;
+  }
+  #wpn_settings {
+	  width: 90%;
+  }
+  
+}

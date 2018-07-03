@@ -1,0 +1,8 @@
+
+-------------------------------------------------------
+    License
+-------------------------------------------------------
+
+View the updated version of the GPL license here:
+
+https://www.gnu.org/copyleft/gpl.html

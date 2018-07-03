@@ -1,0 +1,156 @@
+
+�[<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:85:"SELECT wp_posts.* FROM wp_posts WHERE ID IN (338,329,90703,90711,402,14022,80767,341)";s:11:"last_result";a:8:{i:0;O:8:"stdClass":23:{s:2:"ID";s:3:"329";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-01-06 22:15:41";s:13:"post_date_gmt";s:19:"2015-01-06 16:45:41";s:12:"post_content";s:1672:"<h3 class="p1">What is Bee Pollen?</h3>
+<p class="p1"><span class="s1">Bee Pollen is made by honeybees, and is the food of the young bee. It is one of nature’s most completely nourishing foods as it contains nearly all nutrients required by humans. Bee-gathered pollens are rich in proteins (approximately 40% protein), free amino acids, vitamins, including B-complex, and folic acid.</span></p>
+<p class="p1"><span class="s1">It contains many elements that products of animal origin do not possess. It is more rich in proteins than any animal source. It contains more amino acids than beef, eggs, or cheese of equal weight. About half of its protein is in the form of free amino acids that are ready to be used directly by the body.</span></p>
+<p class="p1"><span class="s1">Human consumption of bee pollen is even praised in the Bible, ancient Chinese and Egyptian texts.</span></p>
+<p class="p1"><span class="s1">It has long been prescribed by traditional health practitioners like Hippocrates.</span></p>
+
+<h3 class="p1">Our Source</h3>
+Our Bee Pollen is sourced from the same Bee hives in Uttaranchal from where our honey is obtained
+<h3 class="p1"><span class="s1"><b>How Should Bee Pollen Be Consumed?</b></span></h3>
+<p class="p1"><span class="s1">It is a food and acts faster and more effectively when taken at mealtime and especially with fruit, which lets it gently, perform a little cleansing of the intestinal flora.</span></p>
+
+<h3 class="p1">Why Buy Ours</h3>
+<p class="p1"><span class="s1">You’ll be pleased to know that our beekeepers are able to remove pollen from hives without harming the bees or disturbing their routine.</span></p>";s:10:"post_title";s:40:"Bee Pollen - Nature's complete Superfood";s:12:"post_excerpt";s:135:"Bee-gathered pollens are rich in proteins (approximately 40% protein), free amino acids, vitamins, including B-complex, and folic acid.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:37:"bee-pollen-natures-complete-superfood";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-29 11:12:19";s:17:"post_modified_gmt";s:19:"2018-03-29 05:42:19";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:68:"http://13.127.121.242/product/bee-pollen-natures-complete-superfood/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:1;O:8:"stdClass":23:{s:2:"ID";s:3:"338";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-01-06 22:24:01";s:13:"post_date_gmt";s:19:"2015-01-06 16:54:01";s:12:"post_content";s:2698:"<p data-dmc="summary">Acacia fiber is made by grinding up acacia gum, which is naturally produced by the acacia tree, an evergreen belonging to the legume family that is native to Africa and India. Consumed as a dietary supplement for its high soluble-fiber content, acacia powder can be taken in capsule or tablet form, or as a loose powder. It can help increase your fiber intake, and it may also contribute to the loss of body fat.</p>
+
+<section class="article-section">
+<h2 class="header"><span data-dmc="section-headline">Increases Fiber Intake</span></h2>
+<p data-dmc="section">Acacia powder is a good source of insoluble fiber, and it is commonly taken to increase fiber consumption and help alleviate constipation. A 1-tablespoon serving of the powder has 6 grams of fiber, which provides between 21 and 29 percent of the recommended dietary allowance, of fiber for adult women, and between 16 and 20 percent for men. Acacia powder can help you get your daily recommended amount of fiber. A diet high in fiber is associated with lower blood cholesterol and a decreased risk of heart disease.</p>
+
+</section><section class="article-section"><section class="article-module"></section></section><section class="article-section">
+<h2 class="header"><span data-dmc="section-headline">Using Acacia Fiber</span></h2>
+<p data-dmc="section">Acacia powder can be consumed on its own as a supplement. It is important to consume the powder — as much as 1 tablespoon — with at least 8 ounces of fluids, such as water or juice. Because it is high in fiber, you need to make sure that you drink enough water throughout the day to reduce the risk of constipation.</p>
+
+</section>Through dietary management, Acacia senegal helps relieve IBS symptoms, including diarrhea, constipation, and abdominal pain.
+
+Acacia powder is a soluble fiber with proven prebiotic effects. Studies have shown that soluble fiber, as part of the diet, regulates bowel motility (alleviating both diarrhea and constipation), and relieves abdominal pain from IBS. Acacia senegal's prebiotic effect stimulates the growth of healthy gut flora, which in turn reduces bloating, gas, and bowel irregularities from the digestive dysfunction of IBS.
+
+Acacia Fiber has no IBS triggers:
+<ul>
+ 	<li>No insoluble fiber</li>
+ 	<li>No acids</li>
+ 	<li>No gluten</li>
+ 	<li>No artificial sweeteners or ingredients</li>
+ 	<li>No GI stimulants or irritants</li>
+</ul>
+<h3>How to Use</h3>
+Acacia Fiber does not dissolve easily, please follow the directions as follows: First put it in a cup then added the water and stir. Let it rest, then again stir. You have to do it at least 3 times but it will dissolve completely.";s:10:"post_title";s:42:"Acacia Fiber (Ayurvedic Digestion Support)";s:12:"post_excerpt";s:128:"Acacia fiber is a soluble fiber with proven prebiotic effects. It is great for IBS Syndrome or any other digestive dysfunction.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:40:"acacia-fiber-ayurvedic-digestion-support";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-29 11:11:38";s:17:"post_modified_gmt";s:19:"2018-03-29 05:41:38";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:71:"http://13.127.121.242/product/acacia-fibre-ayurvedic-digestion-support/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:2;O:8:"stdClass":23:{s:2:"ID";s:3:"341";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-01-06 22:27:34";s:13:"post_date_gmt";s:19:"2015-01-06 16:57:34";s:12:"post_content";s:2722:"<h4><strong>Why protein?</strong></h4>
+Protein is a key element in any athlete's or training enthusiast's diet, but its also less popularly known for its ability to control hunger and promote weight loss. Put simply, protein is essential for growth and repair of all cells, including muscle cells, and it is therefore necessary in order to experience training adaptations.
+
+Whey protein in particular contains an incredible range of essential amino acids. These are absorbed quickly and help you increase strength, gain muscle and lose significant amounts of body fat according to several studies.
+<h4><strong>Why our whey protein?</strong></h4>
+We source our undenatured whey protein powder directly from leading dairies. Manufactured from vegetarian sweet cheese using a cross-flow micro-filtration process ensures that you receive only the most pure whey protein concentrate. It is packed with all 20 essential and non-essential amino acids. Processing is carried out at low temperatures to ensure that it is un-denatured and highly bioavailable.
+
+Sattvic foods whey protein delivers over 19.5g of whey protein per 25g serving with an outstanding amino acid profile. It is the perfect protein supplement because there just aren’t other proteins that compare with the amino acid profile and nutritional benefits. It also provides an unrivalled combination of taste, value and results.
+<h4><strong>Know to grow!</strong></h4>
+As an athlete, your primary concern is knowing exactly what you put in your body, to maximize performance. That’s why our team at Sattvic Foods is committed to providing the highest quality scientifically formulated products. These are backed by the long established science of ayurveda and the embodiment of the true essence of ayurvedic sattvic diet. Thus our products are free of banned substances, fillers, artificial flavors, preservatives or thickeners with its ingredients completely disclosed. <em>So you can be assured you’re taking only the best to become the best.</em>
+<h4><strong>Be the architect of your supplement's flavour! </strong></h4>
+According to us everyone is different with unique needs, tastes and nutritional requirements. That’s why our Whey is unflavoured, leaving the choice entirely up to you.
+
+Since it is unflavoured, we recommend mixing it with our Raw Cacao Powder for a smooth flavour. So mix away and may the gains be with you!
+
+<a href="http://googleweblight.com/i?u=http://dailyburn.com/life/recipes/protein-powder-recipes/&amp;grqid=g-QnqbZ9&amp;hl=en-IN">Click here</a> for some more interesting recipes
+<h4><strong>How to use</strong></h4>
+Consume 1-2 tbsps (20 g), up to 2 times per day. Preferably after workout.
+
+&nbsp;";s:10:"post_title";s:27:"Whey Protein Un-adulterated";s:12:"post_excerpt";s:117:"The no-nonsense whey protein with ultra-pure natural whey of the highest biological value to fuel the athlete in you.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:27:"whey-protein-un-adulterated";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-02-01 10:44:33";s:17:"post_modified_gmt";s:19:"2018-02-01 05:14:33";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:67:"http://13.127.121.242/product/whey-protein-fat-loss-hunger-control/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:3;O:8:"stdClass":23:{s:2:"ID";s:3:"402";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2015-01-15 23:32:24";s:13:"post_date_gmt";s:19:"2015-01-15 18:02:24";s:12:"post_content";s:1988:"<h3>About our Cold Pressed Flaxseed oil</h3>
+Flaxseed Oil is nature's richest source of omega-3 fatty acids and thus highly recommended for your general well being and whole body nutrition. For vegetarians, it is one-of-the-only sources of plant omega-3 fatty acids.
+
+Today, flaxseeds are best known for the therapeutic oil that is obtained by pressing them. These are the seeds of the flax plant. The slender flax plant also boasts a long history as a healing herb. This miracle oil has over its long history earned a solid reputation for treating a range of ailments. After all, flax has been cultivated for over 7000 years.
+
+The essential fatty acids (Omega oils) are one of its key healing components. Our bodies need them to function properly, but can't manufacture them on their own. Essential fatty acids (EFAs) work throughout the body protecting cell membranes, thereby maintaining their efficiency at permitting healthy substances and barring any unhealthy ones.
+<h3>Ingredients</h3>
+Cold Pressed Flaxseed oil
+<h3>Why buy our Cold Pressed Flaxseed oil?</h3>
+<ul>
+ 	<li>Our Oil is Cold-pressed which means no heat treatment is used in the extraction process; thereby preserving all nutrients.</li>
+ 	<li>Flaxseed Oil is the most reliable source of Omega - 3 for a vegetarian diet, Omega-3 is an important component of our cell membranes</li>
+ 	<li>Our Flaxseed Oil is extracted using only the highest quality organic seeds and entirely organic processes</li>
+</ul>
+<h3>How to use Cold Pressed Flaxseed oil</h3>
+Consume 1 tbsp before your meal. Can be taken one to three times daily.
+
+Use in Baking/Cooking
+
+Add to your Salad dressing
+
+Add to your Smoothies
+
+<a href="http://www.globalhealingcenter.com/natural-health/the-health-benefits-of-flaxseed-oil/" target="_blank" rel="noopener noreferrer">Know more </a>about the health benefits of cold pressed flaxseed oil
+
+&nbsp;
+<h2>Disclaimer</h2>
+Flaxseed Oil must be refrigerated to avoid rancidity";s:10:"post_title";s:50:"Organic Cold Pressed Flaxseed Oil® (with OMEGA-3)";s:12:"post_excerpt";s:155:"For a vegetarian there is no better source of OMEGA-3s than our Cold Pressed Flaxseed Oil
+
+&nbsp;
+
+Flaxseed oil must be refrigerated to avoid rancidity";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:25:"cold-pressed-flaxseed-oil";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-29 11:16:40";s:17:"post_modified_gmt";s:19:"2018-03-29 05:46:40";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:56:"http://13.127.121.242/product/cold-pressed-flaxseed-oil/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:4;O:8:"stdClass":23:{s:2:"ID";s:5:"14022";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-07-21 20:28:16";s:13:"post_date_gmt";s:19:"2016-07-21 14:58:16";s:12:"post_content";s:3562:"<h2 class="p1">About Maca Root Powder</h2>
+Maca has been used for centuries by indigenous Andean communities as a source of healing and sustenance, but only recently has it begun to gain popularity in Western diets. It is an herbaceous plant native to the Andean mountains of Peru and Bolivia and it’s one of the only known edible plants in the world to grow at such high altitudes.
+
+As an adaptogenic food, maca helps our bodies cope with stress by balancing our delicate endoc<span class="text_exposed_show">rine system, and is said to help with fertility issues and hormonal imbalances. Evidence has been found that maca cultivation goes as far back as 1600 B.C. and it remains a staple in the diet of the Quechua Indians of Peru.</span>
+<div class="text_exposed_show">
+
+Besides balancing our hormones, maca is choc full of essential amino acids, vitamins, and minerals including B, B1, and B2, as well as iron, magnesium, selenium, and calcium. It’s also a good source of fiber and plant protein, which makes it an ideal addition to smoothies for those looking for a plant-based protein boost. Maca is prized for it’s ability to give strength and increase endurance, and the alkaloids found in maca (called Macainas) assist in endocrine balance.
+
+Maca mixes well with sweeter breakfasts, like porridge, oatmeal, yogurt, smoothies, and granola, and is a great addition to desserts. You can also mix a teaspoon or two into your coffee or tea.
+
+</div>
+<h2 class="p1">Our Source</h2>
+Our Maca comes from the source of the most premium crop grown at an altitude of 4000 metres in the Carhuamayo province on the Bombom Plateau of Peru.
+
+Ours is certified Organic by the Organic Food Federation. Made. Our Organic powder can be taken daily and is a nutrient rich food supplement providing a rich source of minerals.
+<h2>Benefits</h2>
+<strong>Maca</strong>, sometimes called <strong>“Peruvian Ginseng”</strong>, is an ancient food source from the Andes region with a<strong> rich supply of vitamins and minerals</strong>.  It contains a rare blend of minerals, including<strong> iodine</strong>, which supports the adrenal glands and thyroid to produce vital hormones in the proper dosages determined by the bodily need of each individual.  Other <strong>essential minerals</strong> present are; <strong>calcium, potassium, iron and zinc</strong> – these minerals work in tandem to promote healthy bones, healthy red blood cells, maintain normal blood pressure and the optimal function of the immune system – with<strong> vitamin B6</strong> working alongside iron in the formation of fresh red blood cells.
+
+Also high in the <strong>anti-oxidant minerals manganese and copper</strong> and the <strong>immune boosting vitamin C</strong>, maca is a known<em> adaptogen</em> – <strong>adaptogens</strong> are a unique group of herbal ingredients which help your body adjust to extreme circumstances.
+
+Whether it’s consumed for enhanced energy, boosting the immune system or improving bone density, our <strong>Organic Maca Powder</strong> makes a tasty addition to any diet!
+<h2 class="p1"><span class="s1">How to Consume</span></h2>
+<ul>
+ 	<li class="p1"><span class="s1">Mix in Porridge, Oatmeal, Smoothies, Yogurt or Granola</span></li>
+ 	<li class="p1">Add to desserts</li>
+ 	<li class="p1">Mix in Coffee or Tea, hot or cold water (with milk or honey), juices or smoothies</li>
+</ul>
+<div id="three-0" class="tab active">
+<h2>Serving:</h2>
+1-3 teaspoons a day. 1 teaspoon equals 3 grams (1 tsp = 3g)
+
+</div>";s:10:"post_title";s:24:"Organic Maca Root Powder";s:12:"post_excerpt";s:211:"<div class="short-description marginb">
+
+Whether it’s consumed for enhanced energy, boosting the immune system or improving bone density, our Organic Maca Powder makes a tasty addition to any diet!
+
+</div>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:24:"organic-maca-root-powder";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-29 11:15:50";s:17:"post_modified_gmt";s:19:"2018-03-29 05:45:50";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:56:"https://13.127.121.242/product/organic-maca-root-powder/";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:5;O:8:"stdClass":23:{s:2:"ID";s:5:"80767";s:11:"post_author";s:4:"2937";s:9:"post_date";s:19:"2017-11-26 15:38:26";s:13:"post_date_gmt";s:19:"2017-11-26 10:08:26";s:12:"post_content";s:649:"Our Bitter Apricot Kernels are wild sourced grown in the Himalayas. They are shelled and processed using a proprietary process to extract Vitamin B17.
+
+&nbsp;
+
+It is recommended to not consume more than 4g or 1 tsp every 24 hours. We advise reading the safe dosage guide for those consuming it for therapeutic reasons.
+
+Approximately 10mg of B17 (Amygdalin) is found in each apricot kernel. This product has a high amount of vitamin B17/ Amygdalin 500mg per serving
+
+This powder is extracted from Fresh Raw Organic Bitter Apricot Kernels
+
+The seeds used are sourced from Wild in the Himalayas and are Unpasteurised &amp; Sundried
+
+&nbsp;";s:10:"post_title";s:18:"Vitamin B17 powder";s:12:"post_excerpt";s:150:"Our Bitter Apricot Kernels are wild sourced grown in the Himalayas. They are shelled and processed using a proprietary process to extract Vitamin B17.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:18:"vitamin-b17-powder";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-20 11:52:07";s:17:"post_modified_gmt";s:19:"2018-03-20 06:22:07";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:54:"https://13.127.121.242/?post_type=product&#038;p=80767";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:6;O:8:"stdClass":23:{s:2:"ID";s:5:"90703";s:11:"post_author";s:4:"2937";s:9:"post_date";s:19:"2017-12-28 14:59:24";s:13:"post_date_gmt";s:19:"2017-12-28 09:29:24";s:12:"post_content";s:981:"<h3>What is Chaga Mushroom?</h3>
+Chaga mushroom ~ “King of Medicinal Mushrooms” ~ is packed with antioxidants. Owing to its numerous benefits, it has been consumed for centuries in the East.
+
+Chaga has been known to have much more potency than other medicinal mushrooms because of it longevity. It has a lumpy, charcoal colored appearance.
+
+It is a rich source of many Nutrients, Vitamins and enzymes. Chaga is an adaptogen. Adaptogens bring the body back into balance and have beneficial effects on the nervous system, immune system, cardiovascular and endocrine system.
+<h3>Our Source</h3>
+In general, Chaga Mushrooms are normally found in very cold habitats and grow predominantly on birches.  Our Chaga Mushroom Tea comes straight from Paradise ~ Kashmir ~ also known as Heaven on Earth.
+<h3>How to use</h3>
+Drink tea made from chaga mushrooms. Boil 1 tsp of Chaga Mushroom Tea in 1 cup water. Sieve after 30 min. Drink 1 hour before meals, twice a day
+
+&nbsp;";s:10:"post_title";s:28:"Chaga Mushroom Tea (Kashmir)";s:12:"post_excerpt";s:115:"Sourced from Kashmir, Our Chaga Mushroom Tea is a rich source of many nutrients. It brings stability to the system.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:14:"chaga-mushroom";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-29 11:13:48";s:17:"post_modified_gmt";s:19:"2018-03-29 05:43:48";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:54:"https://13.127.121.242/?post_type=product&#038;p=90703";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}i:7;O:8:"stdClass":23:{s:2:"ID";s:5:"90711";s:11:"post_author";s:4:"2937";s:9:"post_date";s:19:"2017-12-28 14:57:21";s:13:"post_date_gmt";s:19:"2017-12-28 09:27:21";s:12:"post_content";s:1189:"<h3>Why Dandelion Root Tea</h3>
+Dandelion Roots are a nutritional powerhouse. We might have thought of Dandelions as a nuisance weed that takes over lawns but Herbalists world over have long treasured Dandelion Root Tea as a powerful Detox.
+
+It has been used in traditional medicine for centuries. The root is a favourite amongst traditional herbalists as it supports the healthy functioning of the liver, kidneys, spleen, and is considered to be a reliable detoxifying agent. Dandelion is rich in minerals, high in fiber as well as vitamin C, vitamin A and vitamin K. Studies have shown that dandelion root is high in antioxidants.
+<h3>Our Source</h3>
+Our Dandelion Root Tea is sourced straight from the Land of Paradise, Kashmir.
+<h3>Benefits</h3>
+Read more about its benefits <a href="https://sunwarrior.com/healthhub/11-health-benefits-of-dandelion-leaves-and-dandelion-root">here.</a>
+<h3>How to Use</h3>
+Dandelion tea/ coffee. Boil 1 tsp in 1 cup water. Sieve after 30 min. Drink 1 hour before meals, twice a day
+
+Grind and Use. Only a spoonful of dandelion powder in teas, smoothies, and other beverages gives a powerful boost of vitamins, minerals, and dietary fibers.";s:10:"post_title";s:28:"Dandelion Root Tea (Kashmir)";s:12:"post_excerpt";s:126:"Dandelion Root is a nutritional powerhouse. A great way to detoxify your system. Used in Traditional Medicine since centuries.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:26:"dandelion-root-tea-kashmir";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-03-29 11:14:01";s:17:"post_modified_gmt";s:19:"2018-03-29 05:44:01";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:54:"https://13.127.121.242/?post_type=product&#038;p=90711";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}s:8:"col_info";a:23:{i:0;O:8:"stdClass":13:{s:4:"name";s:2:"ID";s:7:"orgname";s:2:"ID";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:5;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:49699;s:4:"type";i:8;s:8:"decimals";i:0;}i:1;O:8:"stdClass":13:{s:4:"name";s:11:"post_author";s:7:"orgname";s:11:"post_author";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:4;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:49193;s:4:"type";i:8;s:8:"decimals";i:0;}i:2;O:8:"stdClass":13:{s:4:"name";s:9:"post_date";s:7:"orgname";s:9:"post_date";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:16513;s:4:"type";i:12;s:8:"decimals";i:0;}i:3;O:8:"stdClass":13:{s:4:"name";s:13:"post_date_gmt";s:7:"orgname";s:13:"post_date_gmt";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:129;s:4:"type";i:12;s:8:"decimals";i:0;}i:4;O:8:"stdClass":13:{s:4:"name";s:12:"post_content";s:7:"orgname";s:12:"post_content";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:3562;s:6:"length";i:4294967295;s:9:"charsetnr";i:246;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:5;O:8:"stdClass":13:{s:4:"name";s:10:"post_title";s:7:"orgname";s:10:"post_title";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:50;s:6:"length";i:262140;s:9:"charsetnr";i:246;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:6;O:8:"stdClass":13:{s:4:"name";s:12:"post_excerpt";s:7:"orgname";s:12:"post_excerpt";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:211;s:6:"length";i:262140;s:9:"charsetnr";i:246;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:7;O:8:"stdClass":13:{s:4:"name";s:11:"post_status";s:7:"orgname";s:11:"post_status";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:7;s:6:"length";i:80;s:9:"charsetnr";i:246;s:5:"flags";i:16385;s:4:"type";i:253;s:8:"decimals";i:0;}i:8;O:8:"stdClass":13:{s:4:"name";s:14:"comment_status";s:7:"orgname";s:14:"comment_status";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:6;s:6:"length";i:80;s:9:"charsetnr";i:246;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:9;O:8:"stdClass":13:{s:4:"name";s:11:"ping_status";s:7:"orgname";s:11:"ping_status";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:6;s:6:"length";i:80;s:9:"charsetnr";i:246;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:10;O:8:"stdClass":13:{s:4:"name";s:13:"post_password";s:7:"orgname";s:13:"post_password";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:1020;s:9:"charsetnr";i:246;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:11;O:8:"stdClass":13:{s:4:"name";s:9:"post_name";s:7:"orgname";s:9:"post_name";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:40;s:6:"length";i:800;s:9:"charsetnr";i:246;s:5:"flags";i:16393;s:4:"type";i:253;s:8:"decimals";i:0;}i:12;O:8:"stdClass":13:{s:4:"name";s:7:"to_ping";s:7:"orgname";s:7:"to_ping";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:262140;s:9:"charsetnr";i:246;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:13;O:8:"stdClass":13:{s:4:"name";s:6:"pinged";s:7:"orgname";s:6:"pinged";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:262140;s:9:"charsetnr";i:246;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:14;O:8:"stdClass":13:{s:4:"name";s:13:"post_modified";s:7:"orgname";s:13:"post_modified";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:129;s:4:"type";i:12;s:8:"decimals";i:0;}i:15;O:8:"stdClass":13:{s:4:"name";s:17:"post_modified_gmt";s:7:"orgname";s:17:"post_modified_gmt";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:19;s:6:"length";i:19;s:9:"charsetnr";i:63;s:5:"flags";i:129;s:4:"type";i:12;s:8:"decimals";i:0;}i:16;O:8:"stdClass":13:{s:4:"name";s:21:"post_content_filtered";s:7:"orgname";s:21:"post_content_filtered";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:4294967295;s:9:"charsetnr";i:246;s:5:"flags";i:4113;s:4:"type";i:252;s:8:"decimals";i:0;}i:17;O:8:"stdClass":13:{s:4:"name";s:11:"post_parent";s:7:"orgname";s:11:"post_parent";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:1;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:49193;s:4:"type";i:8;s:8:"decimals";i:0;}i:18;O:8:"stdClass":13:{s:4:"name";s:4:"guid";s:7:"orgname";s:4:"guid";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:71;s:6:"length";i:1020;s:9:"charsetnr";i:246;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:19;O:8:"stdClass":13:{s:4:"name";s:10:"menu_order";s:7:"orgname";s:10:"menu_order";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:1;s:6:"length";i:11;s:9:"charsetnr";i:63;s:5:"flags";i:32769;s:4:"type";i:3;s:8:"decimals";i:0;}i:20;O:8:"stdClass":13:{s:4:"name";s:9:"post_type";s:7:"orgname";s:9:"post_type";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:7;s:6:"length";i:80;s:9:"charsetnr";i:246;s:5:"flags";i:16393;s:4:"type";i:253;s:8:"decimals";i:0;}i:21;O:8:"stdClass":13:{s:4:"name";s:14:"post_mime_type";s:7:"orgname";s:14:"post_mime_type";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:0;s:6:"length";i:400;s:9:"charsetnr";i:246;s:5:"flags";i:1;s:4:"type";i:253;s:8:"decimals";i:0;}i:22;O:8:"stdClass":13:{s:4:"name";s:13:"comment_count";s:7:"orgname";s:13:"comment_count";s:5:"table";s:8:"wp_posts";s:8:"orgtable";s:8:"wp_posts";s:3:"def";s:0:"";s:2:"db";s:6:"sfoods";s:7:"catalog";s:3:"def";s:10:"max_length";i:1;s:6:"length";i:20;s:9:"charsetnr";i:63;s:5:"flags";i:32769;s:4:"type";i:8;s:8:"decimals";i:0;}}s:8:"num_rows";i:8;s:10:"return_val";i:8;}

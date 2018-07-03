@@ -1,0 +1,10 @@
+Server requirement : 
+
+Php version 7.0
+PHP Extensions: Enable-> Soap and mbstring
+
+Plugin Requirement:
+
+Woocommerce version :3.1.2
+
+Make sure shipping address details should be there in order details to generate awb no

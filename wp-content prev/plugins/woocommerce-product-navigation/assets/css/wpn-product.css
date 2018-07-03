@@ -1,0 +1,11 @@
+.wpn_buttons {
+	overflow: hidden;
+}
+.wpn_buttons .previous {
+	float: left;
+	padding-left: 1px;
+}
+.wpn_buttons .next {
+	float: right;
+	padding-right: 1px;
+}

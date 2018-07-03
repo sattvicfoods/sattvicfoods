@@ -1,0 +1,16 @@
+
+�[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:6:"109345";s:11:"post_author";s:4:"2937";s:9:"post_date";s:19:"2018-05-18 01:34:44";s:13:"post_date_gmt";s:19:"2018-05-17 20:04:44";s:12:"post_content";s:2041:"Our Chamomile tea is sourced from the idyllic valleys of Kashmir. It has been a traditional remedy for sleeplessness or an upset stomach since time immemorial. Mentions of it being used in Egyptian, Roman and Greek civilizations have been found. The honey coloured tea is mildly sedative and helps you calm down and relax after a long, stressful day.
+<h2><strong>What is Chamomile tea?</strong></h2>
+Chamomile tea has been used for millennia for its soothing effect on the mind and body. It helps induce sleep and also relaxes an upset tummy.  It is rich in antioxidants, phenolic compounds and has anti-inflammatory properties, which make it great for topical application too.
+<h2><strong>Source</strong></h2>
+Kashmir, India
+<h2><strong>Why is Chamomile tea good for me?</strong></h2>
+Chamomile tea is rich in phenolic compounds which help in stress relief and helps our body get rid of free radicals. It is known to increase serotonin levels in the body, which help us to sleep better and regulate digestion. This improves our mood, social behaviour and general body function.
+
+It is also a great immunity booster and pathogen fighter. The anti-inflammatory properties of chamomile help reduce skin inflammations.
+
+Check out <a href="https://food.ndtv.com/food-drinks/13-incredible-chamomile-tea-benefits-drink-up-1629069">13 incredible benefits of Chamomile Tea</a>
+<h2><strong>How to use?</strong></h2>
+1-2 teaspoons of Chamomile Tea in Boiling Water. Let it steep for 5 minutes, more if you want it strong, less if you want it milder. Sieve through a fine strainer before consuming.
+<h2><strong>Caution</strong></h2>
+<em>Chamomile Tea should always be consumed mild.  If made very strong, it could cause nausea ~ Pregnant women or women taking any sort of hormonal treatment should avoid consuming Chamomile Tea ~ A natural blood thinner, it is not to be consumed when one is taking blood thinner medication or before any surgery ~ Not to be consumed by those allergic to pollens or flowers from the daisy family.</em>";s:10:"post_title";s:47:"Chamomile Flowers - Herbal Tea (Kashmir) (Copy)";s:12:"post_excerpt";s:190:"<span style="font-weight: 400;">This honey coloured tea is tremendously soothing and helps you calm down and relax after a long, stressful day. A traditional remedy for sleeplessness.</span>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:41:"chamomile-flowers-herbal-tea-kashmir-copy";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-05-18 01:35:02";s:17:"post_modified_gmt";s:19:"2018-05-17 20:05:02";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:55:"https://13.127.121.242/?post_type=product&#038;p=109345";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

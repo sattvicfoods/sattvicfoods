@@ -1,0 +1,5 @@
+[05-Feb-2017 16:48:16 UTC] PHP Fatal error:  Out of memory (allocated 332660736) (tried to allocate 83 bytes) in /home/sattvpmj/public_html/wp-includes/wp-db.php on line 1846
+[06-Feb-2017 16:31:41 UTC] PHP Fatal error:  Out of memory (allocated 364642304) (tried to allocate 80 bytes) in /home/sattvpmj/public_html/wp-includes/wp-db.php on line 1846
+[06-Feb-2017 16:34:52 UTC] PHP Fatal error:  Out of memory (allocated 533200896) (tried to allocate 21390 bytes) in /home/sattvpmj/public_html/wp-includes/wp-db.php on line 1846
+[07-Feb-2017 06:02:35 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 80 bytes) in /home/sattvpmj/public_html/wp-includes/wp-db.php on line 1846
+[08-Feb-2017 02:05:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 9334 bytes) in /home/sattvpmj/public_html/wp-includes/wp-db.php on line 1846

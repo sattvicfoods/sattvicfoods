@@ -1,0 +1,9 @@
+{
+  "url": "http://woocommerce-testing-suite.dev/",
+  "users": {
+    "admin": {
+      "username": "joey",
+      "password": "password"
+    }
+  }
+}

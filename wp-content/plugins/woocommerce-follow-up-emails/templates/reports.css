@@ -1,0 +1,52 @@
+ul.reports-stats li {
+    float: left;
+    width: 170px;
+    font-size: 11px;
+    padding: 5px 0;
+    margin: 0 10px;
+    min-height: 45px;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    border: 1px solid #e5e5e5;
+}
+ul.reports-stats li.auto-width {
+    width: auto;
+    padding: 5px 10px;
+    line-height: normal;
+}
+ul.reports-stats li span.dashicons {
+    float: left;
+    display: block;
+    width: 30px;
+    font-size: 30px;
+    margin: 5px 10px 5px 0;
+}
+ul.reports-stats li strong {
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 10px;
+}
+ul.reports-stats li strong span.meta {
+    font-weight: normal;
+    font-size: 12px;
+}
+
+h2.nav-tab-wrapper{
+    margin: 25px 0;
+}
+
+div.chart_container {
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    border: 1px solid #e5e5e5;
+}
+div.chart_container h3 {
+    text-align: center;
+    color: #d0d0d0;
+}
+
+div.gauge {
+    width: 170px;
+    height: 75px;
+}

@@ -1,0 +1,25 @@
+*** IcoMoon ***
+
+This package is licensed under the GNU General Public License: http://www.gnu.org/licenses/gpl.html
+
+Visit IcoMoon's webpage for more information: http://icomoon.io
+
+
+
+*** Google Fonts ***
+
+Open Sans Lite
+Open Sans Regular
+Open Sans Semibold
+
+copyright © 2010-2011, Google Corporation
+Apache Licence: http://www.apache.org/licenses/LICENSE-2.0.html
+
+
+Raleway Regular
+
+Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), 
+Pablo Impallari(impallari@gmail.com), 
+Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+
+SIL License: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
